@@ -1,5 +1,0 @@
-﻿  processHM2.cpp
-C:\Users\joaoc\source\repos\processHM2\processHM2\processHM2.cpp(48,29): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\joaoc\source\repos\processHM2\processHM2\processHM2.cpp(82,16): warning C4101: 'mainInfo': unreferenced local variable
-C:\Users\joaoc\source\repos\processHM2\processHM2\processHM2.cpp(83,16): warning C4101: 'clientInfo': unreferenced local variable
-  processHM2.vcxproj -> C:\Users\joaoc\source\repos\processHM2\Debug\processHM2.exe

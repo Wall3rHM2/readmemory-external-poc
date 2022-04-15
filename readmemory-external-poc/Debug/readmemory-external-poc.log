@@ -1,0 +1,5 @@
+﻿  readmemory-external-poc.cpp
+C:\Users\joaoc\source\repos\readmemory-external-poc\readmemory-external-poc\readmemory-external-poc.cpp(48,23): warning C4390: ';': instrução controlada vazia encontrada; é esta a intenção?
+C:\Users\joaoc\source\repos\readmemory-external-poc\readmemory-external-poc\readmemory-external-poc.cpp(89,13): warning C4101: 'mainInfo': variável local não referenciada
+C:\Users\joaoc\source\repos\readmemory-external-poc\readmemory-external-poc\readmemory-external-poc.cpp(90,13): warning C4101: 'clientInfo': variável local não referenciada
+  readmemory-external-poc.vcxproj -> C:\Users\joaoc\source\repos\readmemory-external-poc\Debug\readmemory-external-poc.exe
