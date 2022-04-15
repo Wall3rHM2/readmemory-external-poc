@@ -1,4 +1,4 @@
 # readmemory-external-poc
- readMemory of another process externally POC
+ Reads memory of another process externally Proof Of Concept
  
  This example works on the game GMod with offsets as of 2022
